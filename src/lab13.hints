@@ -1,0 +1,16 @@
+[{"code": "'action' in elt.attributes", "type": "dict"},
+ {"code": "'href' in elt.attributes", "type": "dict"},
+ {"code": "b'Browser'", "js": "'Browser'"},
+ {"code": "MeasureTime()", "js": "new MeasureTime()"},
+ {"code": "print", "js": "console.log"},
+ {"code": "self.node_to_handle = {}", "js": "    this.node_to_handle = new Map();"},
+ {"code": "('OpenGL initialized: vendor={},' + 'renderer={}').format(OpenGL.GL.glGetString(OpenGL.GL.GL_VENDOR), OpenGL.GL.glGetString(OpenGL.GL.GL_RENDERER))", "js": ""},
+ {"code": "self.s[self.i] not in chars", "type": "str"},
+ {"code": "property not in old_style", "type": "dict"},
+ {"code": "property not in new_style", "type": "dict"},
+ {"code": "'style' in node.attributes", "type": "dict"},
+ {"code": "node not in self.composited_updates", "type": "list"},
+ {"code": "new_parent in new_effects", "type": "dict"},
+ {"code": "rect.outset(1, 1)", "js": "rect.outset(1, 1)"},
+ {"code": "sys.exit()", "js": ""}
+]
